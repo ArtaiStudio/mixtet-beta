@@ -27,7 +27,8 @@ Appka to sama řekne žlutým pruhem nahoře.
 
 ## Zpětná vazba
 
-Kde ses zasekl, co tě překvapilo, co na pódiu chybí: [mixtet.live/feedback](https://mixtet.live/feedback/).
+Když se něco pokazí, zmáčkni **⌘M** (Značka – zapíše čas do logu) a pak **Nápověda › Nahlásit problém…** – popis
+i diagnostika přijdou rovnou k nám, jen po kliku na Odeslat. Nápady a co tě mátlo: [mixtet.live/feedback](https://mixtet.live/feedback/).
 Nejlépe s časem zkoušky a snímkem obrazovky. Diagnostiku uložíš v Nastavení › Kapela › **Uložit diagnostiku…** –
 nic se neodesílá samo a klíče mobilů v ní nejsou.
 
@@ -60,6 +61,8 @@ The app tells you with a yellow bar at the top.
 
 ## Feedback
 
-Where you got stuck, what surprised you, what’s missing on stage: [mixtet.live/feedback](https://mixtet.live/feedback/).
+When something goes wrong, press **⌘M** (Marker – writes the time to the log), then **Help › Report a Problem…** –
+the description and diagnostics reach us directly, only when you click Send. Ideas and what confused you:
+[mixtet.live/feedback](https://mixtet.live/feedback/).
 Ideally with the rehearsal time and a screenshot. Save diagnostics in Settings › Band › **Save diagnostics…** –
 nothing is sent automatically and phone keys aren’t included.
